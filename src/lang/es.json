@@ -1,0 +1,16 @@
+{
+  "headerTitle": "¡Adopta un Robot con Robot Lovers!",
+  "loginTitle": "Inicio de sesión",
+  "loginUsername": "Nombre de usuario",
+  "loginPassword": "Contraseña",
+  "loginSubmit": "Ingresar",
+  "loginCancel": "Cancelar",
+  "loginError": "Error de autenticación. Revise sus credenciales",
+  "tableId": "ID",
+  "tableName": "Nombre",
+  "tableModel": "Modelo",
+  "tableManufacturer": "Empresa Fabricante",
+  "detailYear": "Año de Fabricación",
+  "detailCapacity": "Capacidad de Procesamiento",
+  "detailFeatures": "Características adicionales"
+}
